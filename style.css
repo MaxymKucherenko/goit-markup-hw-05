@@ -36,6 +36,7 @@ a {
   --icon-color: #afb1b8;
 }
 
+/*Хеддер*/
 .main-nav {
   background-color: var(--primary-bg-color);
   border: 1px solid var(--border-color-header);
